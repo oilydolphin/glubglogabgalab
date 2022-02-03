@@ -1,0 +1,47 @@
+body {
+	font-family: arial;
+	margin: 0%;
+	padding: 0%;
+	background-image: url("thing3.gif");
+	background-size: 100%;
+}
+
+div {
+	background-color: white;
+	margin-left: 20px;
+	margin-right: 20px;
+	opacity: 0.90;
+}
+
+body nav {
+	padding-top: 5px;
+	margin-left: 0px;
+	margin-right: 10px;
+	background-color: white;
+    display: block;
+}
+
+body nav a {
+	padding: 10px;
+	text-decoration: none;
+    color: black;
+}
+
+body nav a.link:hover {
+    background-color: black;
+    color: white;
+}
+
+div.text {
+	margin-top: 0px;
+	padding-bottom: 5px;
+	background-color: white;
+}
+
+div.text p {
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin: 0px;
+}
